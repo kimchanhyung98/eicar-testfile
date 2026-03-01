@@ -9,6 +9,17 @@
 X5O!P%@AP[4\PZX54(P^)7CC)7}$EICAR-STANDARD-ANTIVIRUS-TEST-FILE!$H+H*
 ```
 
+### 디렉토리 구조
+
+테스트 파일들은 유형별로 다음과 같이 분류되어 있습니다:
+
+- **`standard/`** - 표준 EICAR 테스트 파일 (.com, .txt)
+- **`pdf/`** - Adobe Acrobat PDF 테스트 파일
+- **`excel/`** - Microsoft Excel 테스트 파일 (.xls, .xlsx, .xlsm)
+- **`word/`** - Microsoft Word 테스트 파일 (.doc, .docm)
+- **`powerpoint/`** - Microsoft PowerPoint 테스트 파일 (.ppt, .pptm, .pptx)
+- **`archives/`** - ZIP 압축 파일
+
 ### 참고
 
 - [eicar.org](https://www.eicar.org/download-anti-malware-testfile)
