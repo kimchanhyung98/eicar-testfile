@@ -14,13 +14,14 @@ X5O!P%@AP[4\PZX54(P^)7CC)7}$EICAR-STANDARD-ANTIVIRUS-TEST-FILE!$H+H*
 테스트 파일들은 유형별로 다음과 같이 분류되어 있습니다:
 
 - **`standard/`** - 표준 EICAR 테스트 파일 (.com, .txt)
-- **`pdf/`** - Adobe Acrobat PDF 테스트 파일
-- **`excel/`** - Microsoft Excel 테스트 파일 (.xls, .xlsx, .xlsm)
-- **`word/`** - Microsoft Word 테스트 파일 (.doc, .docm)
-- **`powerpoint/`** - Microsoft PowerPoint 테스트 파일 (.ppt, .pptm, .pptx)
-- **`archives/`** - ZIP 압축 파일
+- **`pdf/`** - Adobe Acrobat PDF 테스트 파일 (.pdf)
+- **`excel/`** - Microsoft Excel 테스트 파일 (.xls, .xlsx, .xlsm, .ods, .ots)
+- **`word/`** - Microsoft Word 테스트 파일 (.doc, .docm, .odt, .ott)
+- **`powerpoint/`** - Microsoft PowerPoint 테스트 파일 (.ppt, .pptm, .pptx, .odp, .otp)
+- **`archives/`** - ZIP 압축 파일 (.zip)
 
 ### 참고
 
 - [eicar.org](https://www.eicar.org/download-anti-malware-testfile)
 - [mattias-ohlsson/eicar-standard-antivirus-test-files](https://github.com/mattias-ohlsson/eicar-standard-antivirus-test-files)
+- [csawtelle/eicar-msoffice-macro-antivirus-test-files](https://github.com/csawtelle/eicar-msoffice-macro-antivirus-test-files)
